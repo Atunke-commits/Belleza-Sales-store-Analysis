@@ -8,7 +8,8 @@ This project analyzes sales data from Belleza, a skincare and cosmetics company.
 * Boxes Shipped
 * Order Date
 
-   {[Uploading Belleza cosmetics_sales_data.csv…]()}
+[Download-Data](https://github.com/Atunke-commits/Belleza-Sales-store-Analysis/commit/7822cd2ca71b52140fa1fe12f8d2fc3136577156)
+   
 
 
 ## Key KPIs:
